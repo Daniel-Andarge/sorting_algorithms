@@ -1,6 +1,3 @@
-root@c549d8a4507e:~/sorting_algorithms# ls
-README.md  sort.h
-root@c549d8a4507e:~/sorting_algorithms# cat>0-bubble_sort.c
 #include "sort.h"
 
 /**
